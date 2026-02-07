@@ -1,6 +1,10 @@
-- 👋 Hi, I’m @KyryloPapazov
-- 👀 I’m interested in learning.
-- 🌱 I’m currently learning PHP/Laraver, JS and Python/Django
+Backend-oriented Full-Stack Developer with a Bachelor’s degree in Cybersecurity.
+
+Experience with PHP (Laravel, Yii2), Python (Django), REST APIs,
+relational databases, and Linux-based environments.
+
+Interested in secure web development and backend engineering.
+
 
 <!---
 KyryloPapazov/KyryloPapazov is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
